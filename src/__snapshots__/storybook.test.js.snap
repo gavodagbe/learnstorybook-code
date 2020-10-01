@@ -451,7 +451,7 @@ exports[`Storyshots InboxScreen Default 1`] = `
           readOnly={true}
           style={
             Object {
-              "textOverflow": "ellipsis",
+              "background": "green",
             }
           }
           type="text"
@@ -496,7 +496,7 @@ exports[`Storyshots InboxScreen Default 1`] = `
           readOnly={true}
           style={
             Object {
-              "textOverflow": "ellipsis",
+              "background": "green",
             }
           }
           type="text"
@@ -541,7 +541,7 @@ exports[`Storyshots InboxScreen Default 1`] = `
           readOnly={true}
           style={
             Object {
-              "textOverflow": "ellipsis",
+              "background": "green",
             }
           }
           type="text"
@@ -586,7 +586,7 @@ exports[`Storyshots InboxScreen Default 1`] = `
           readOnly={true}
           style={
             Object {
-              "textOverflow": "ellipsis",
+              "background": "green",
             }
           }
           type="text"
@@ -631,7 +631,7 @@ exports[`Storyshots InboxScreen Default 1`] = `
           readOnly={true}
           style={
             Object {
-              "textOverflow": "ellipsis",
+              "background": "green",
             }
           }
           type="text"
@@ -676,7 +676,7 @@ exports[`Storyshots InboxScreen Default 1`] = `
           readOnly={true}
           style={
             Object {
-              "textOverflow": "ellipsis",
+              "background": "green",
             }
           }
           type="text"
@@ -750,7 +750,7 @@ exports[`Storyshots Task Archived 1`] = `
       readOnly={true}
       style={
         Object {
-          "textOverflow": "ellipsis",
+          "background": "green",
         }
       }
       type="text"
@@ -790,7 +790,7 @@ exports[`Storyshots Task Default 1`] = `
       readOnly={true}
       style={
         Object {
-          "textOverflow": "ellipsis",
+          "background": "green",
         }
       }
       type="text"
@@ -838,7 +838,7 @@ exports[`Storyshots Task Long Title 1`] = `
       readOnly={true}
       style={
         Object {
-          "textOverflow": "ellipsis",
+          "background": "green",
         }
       }
       type="text"
@@ -886,7 +886,7 @@ exports[`Storyshots Task Pinned 1`] = `
       readOnly={true}
       style={
         Object {
-          "textOverflow": "ellipsis",
+          "background": "green",
         }
       }
       type="text"
@@ -944,7 +944,7 @@ exports[`Storyshots TaskList Default 1`] = `
           readOnly={true}
           style={
             Object {
-              "textOverflow": "ellipsis",
+              "background": "green",
             }
           }
           type="text"
@@ -989,7 +989,7 @@ exports[`Storyshots TaskList Default 1`] = `
           readOnly={true}
           style={
             Object {
-              "textOverflow": "ellipsis",
+              "background": "green",
             }
           }
           type="text"
@@ -1034,7 +1034,7 @@ exports[`Storyshots TaskList Default 1`] = `
           readOnly={true}
           style={
             Object {
-              "textOverflow": "ellipsis",
+              "background": "green",
             }
           }
           type="text"
@@ -1079,7 +1079,7 @@ exports[`Storyshots TaskList Default 1`] = `
           readOnly={true}
           style={
             Object {
-              "textOverflow": "ellipsis",
+              "background": "green",
             }
           }
           type="text"
@@ -1124,7 +1124,7 @@ exports[`Storyshots TaskList Default 1`] = `
           readOnly={true}
           style={
             Object {
-              "textOverflow": "ellipsis",
+              "background": "green",
             }
           }
           type="text"
@@ -1169,7 +1169,7 @@ exports[`Storyshots TaskList Default 1`] = `
           readOnly={true}
           style={
             Object {
-              "textOverflow": "ellipsis",
+              "background": "green",
             }
           }
           type="text"
@@ -1408,7 +1408,7 @@ exports[`Storyshots TaskList With Pinned Tasks 1`] = `
           readOnly={true}
           style={
             Object {
-              "textOverflow": "ellipsis",
+              "background": "green",
             }
           }
           type="text"
@@ -1453,7 +1453,7 @@ exports[`Storyshots TaskList With Pinned Tasks 1`] = `
           readOnly={true}
           style={
             Object {
-              "textOverflow": "ellipsis",
+              "background": "green",
             }
           }
           type="text"
@@ -1498,7 +1498,7 @@ exports[`Storyshots TaskList With Pinned Tasks 1`] = `
           readOnly={true}
           style={
             Object {
-              "textOverflow": "ellipsis",
+              "background": "green",
             }
           }
           type="text"
@@ -1543,7 +1543,7 @@ exports[`Storyshots TaskList With Pinned Tasks 1`] = `
           readOnly={true}
           style={
             Object {
-              "textOverflow": "ellipsis",
+              "background": "green",
             }
           }
           type="text"
@@ -1588,7 +1588,7 @@ exports[`Storyshots TaskList With Pinned Tasks 1`] = `
           readOnly={true}
           style={
             Object {
-              "textOverflow": "ellipsis",
+              "background": "green",
             }
           }
           type="text"
@@ -1633,7 +1633,7 @@ exports[`Storyshots TaskList With Pinned Tasks 1`] = `
           readOnly={true}
           style={
             Object {
-              "textOverflow": "ellipsis",
+              "background": "green",
             }
           }
           type="text"
