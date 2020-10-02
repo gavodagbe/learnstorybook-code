@@ -19,7 +19,7 @@ export default function Task({ task: { id, title, state }, onArchiveTask, onPinT
           value={title}
           readOnly={true}
           placeholder="Input title"
-          style={{ background: 'green' }}
+          style={{ textOverflow: 'ellipsis' }}        
         />
       </div>
 
@@ -35,11 +35,29 @@ export default function Task({ task: { id, title, state }, onArchiveTask, onPinT
 }
 
 Task.propTypes = {
+  /**
+   * Description of the task. Is very important.
+   */
   task: PropTypes.shape({
+    /**
+     * Id of the task
+     */
     id: PropTypes.string.isRequired,
+    /**
+     * Title of the task.
+     */
     title: PropTypes.string.isRequired,
+    /**
+     * State of the component task
+     */
     state: PropTypes.string.isRequired,
   }),
+  /**
+   * Archive function
+   */
   onArchiveTask: PropTypes.func,
+  /**
+   * Pin function
+   */
   onPinTask: PropTypes.func,
 };

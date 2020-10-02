@@ -3,12 +3,12 @@ import { action } from '@storybook/addon-actions';
 import { Provider } from 'react-redux';
 
 import { PureInboxScreen } from './InboxScreen';
-import * as TaskListStories from './TaskList.stories';
+import * as TaskListStories from '../TaskList/TaskList.stories';
 
 
 export default {
   component: PureInboxScreen,
-  title: 'InboxScreen',
+  title: 'Components/InboxScreen',
   parameters: { assets: ['designs/app.png'] },
   decorators: [(story) => <Provider store={store}>{story()}</Provider>],
 };

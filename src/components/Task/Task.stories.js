@@ -4,7 +4,7 @@ import Task from './Task';
 
 export default {
   component: Task,
-  title: 'Task',
+  title: 'Components/Task',
   // Parameters used in Story at component level.
   // Learn more about parameters in https://storybook.js.org/docs/react/writing-stories/parameters
   parameters: { assets: ['designs/items.png'] },

@@ -1,11 +1,11 @@
 import React from "react";
 
 import { PureTaskList } from './TaskList';
-import * as TaskStories from './Task.stories'
+import * as TaskStories from '../Task/Task.stories'
 
 export default {
   component:PureTaskList,
-  title: 'TaskList',
+  title: 'Components/TaskList',
   decorators: [(story) => <div style={{ padding: "3rem" }}>{story()}</div>],
   parameters: { assets: ['designs/list-1.png', 'designs/list-2.png'] },
 };
